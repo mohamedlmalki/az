@@ -103,6 +103,8 @@ We are currently working on porting our starters & templates from v3, you can fo
 - [Template - Blog](https://github.com/strapi/starters-and-templates/tree/main/packages/templates/blog)
 - [Template - Corporate](https://github.com/strapi/starters-and-templates/tree/main/packages/templates/corporate)
 - [Template - Ecommerce](https://github.com/strapi/starters-and-templates/tree/main/packages/templates/ecommerce)
+- [Template - PNPM + Docker](https://github.com/idea2app/Strapi-PNPM-Docker-ts) - Strapi scaffold with **TypeScript**, **PNPM** & **Docker**
+- [Template - OrgServer](https://github.com/kaiyuanshe/OrgServer) - **Governance Data Server** scaffold for all kinds of **Organizations**
 
 ### Plugins & Providers
 
@@ -140,6 +142,7 @@ For community packages and providers, we currently are promoting a community pro
 #### SDKs
 
 - [strapi-sdk-js](https://github.com/Stun3R/strapi-sdk-js) - Community built SDK for Javascript
+- [MobX-Strapi](https://github.com/idea2app/MobX-RESTful/tree/main/wrapper/Strapi) - **MobX** SDK for Strapi
 
 ## Strapi v3
 
@@ -159,7 +162,6 @@ For community packages and providers, we currently are promoting a community pro
 ### Starters & Examples - v3
 
 - [Examples](https://github.com/strapi/strapi-examples) - General examples (Outdated).
-- [OrgServer](https://github.com/kaiyuanshe/OrgServer) - **Data Server** scaffold for all kinds of **Organizations**
 
 #### Angular - v3
 
@@ -301,7 +303,6 @@ For community packages and providers, we currently are promoting a community pro
 
 - [Javascript SDK](https://github.com/strapi/strapi-sdk-javascript) - Official Javascript SDK (Currently outdated).
 - [Jekyll](https://github.com/strapi/jekyll-strapi) - Jekyll plugin to retrieve content from a Strapi API.
-- [MobX-Strapi](https://github.com/EasyWebApp/MobX-Strapi) - **MobX** v5 SDK for Strapi v3
 
 #### Third Party Modules - v3
 
